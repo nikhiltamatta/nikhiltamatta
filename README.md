@@ -10,8 +10,8 @@ Welcome to my GitHub repository! Here's a bit about me:
 - **Backend:** PHP, Laravel, Java, Python
 - **Frontend:** HTML, CSS, Bootstrap, React, Flutter, Dart
 - **Database:** MySQL, Redis
-- **Cloud Services:** AWS (S3, Elastic Load Balancing - ELB), Google Cloud, Google Firebase
-- **Mobile App Development:** Flutter, Dart, Kotlin
+- **Cloud Services:** AWS, AWS S3, Elastic Load Balancing - (ELB), Google Cloud, Google Firebase
+- **Mobile App Development:** Flutter, Dart, Kotlin, Swift
 - **Web Technologies:** JavaScript, JSON
 - **Data Visualization:** Power BI, Tableau
 - **API Testing:** Postman
