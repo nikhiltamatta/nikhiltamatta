@@ -16,13 +16,7 @@ I love exploring new technologies and finding innovative solutions to complex pr
 
 Let's build something amazing together! 💻✨
 
-# Hi there! 👋 I'm Nikhil Tamatta, a Full Stack Developer.
-
-Welcome to my GitHub repository! Here's a bit about me:
-
-- 🚀 I am a Full Stack Developer with a diverse technology stack and a passion for various tech domains, including ML & AI, DevOps, Data Analytics, Business Intelligence, Quality Assurance, and React development.
-
-- 💼 Currently, I am the founder and CEO at KnotUp Services Pvt. Ltd, an eCommerce company based in Kathmandu, Nepal.
+💼 Currently, I am the founder and CEO of KnotUp Services Pvt. Ltd, an eCommerce company based in Kathmandu, Nepal.
 
 ## 🔧 Technologies & Interests
 - **Backend:** PHP, Laravel, Java, Python
