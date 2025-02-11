@@ -14,11 +14,11 @@ Welcome to my GitHub repository! Here's a bit about me:
 
 I love exploring new technologies and finding innovative solutions to complex problems. Feel free to explore my projects and repositories to get a glimpse of my cloud and DevOps journey.  
 
-**Let's build something amazing together! 💻✨**  
+**Let's build something amazing together! 💻✨
 
 💼 **Currently, I am enrolled at the National College of Ireland in Dublin, pursuing an MSc in Cloud Computing.** I am focused on deepening my expertise in cloud infrastructure, DevOps automation, and scalable system architecture.  
 
-🔧 ## Technologies & Interests**  
+🔧 ## Technologies & Interests
 - **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, ELB, IAM), Google Cloud, Firebase  
 - **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions  
 - **Infrastructure & Networking:** Cloudflare, Load Balancing, CDN, VPC, VPN  
@@ -29,13 +29,13 @@ I love exploring new technologies and finding innovative solutions to complex pr
 - **Data Visualization:** Power BI, Tableau  
 - **Security & Compliance:** IAM Policies, Encryption, Secure API Development  
 
-🤝 ## Collaboration**  
+🤝 ## Collaboration
 I am open to collaborating on exciting projects, especially those involving cloud infrastructure, DevOps automation, and AI-driven scalable solutions.  
 
-📬 ## Get in Touch**  
+📬 ## Get in Touch
 📧 Feel free to reach out to me at **nikhiltamatta@ymail.com** for any collaboration or just to say hello! I'm always excited to connect with like-minded individuals.  
 
-**Thanks for stopping by! 🚀**  
+Thanks for stopping by! 🚀  
 
 <!---
 nikhiltamatta/nikhiltamatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
